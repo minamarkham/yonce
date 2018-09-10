@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#BABABAFF",
+        "font" : "System Light",
+        "color" : "#7F7F7FFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#98E341FF",
+        "font" : "System Light",
+        "color" : "#00A7AAFF"
+      },
+      "backgroundSelected" : "#3333337F",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#F1F1EFFF",
+        "font" : "System Light",
+        "color" : "#F1F1EFFF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#1C1C1C00",
+      "spacing" : 10,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#FC4383FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#1C1C1CE5",
+      "paddingHorizontal" : 10,
+      "width" : 560,
+      "borderPadding" : 10,
+      "borderColor" : "#1C1C1C00",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Mina Markham",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#00000026",
+      "thickness" : 2
+    },
+    "name" : "Yoncé"
+  }
+}
