@@ -1,3 +1,6 @@
 [submodule "yonce-vscode"]
 	path = yonce-vscode
 	url = git@github.com:minamarkham/yonce-vscode.git
+[submodule "vscode"]
+	path = vscode
+	url = git@github.com:minamarkham/yonce-vscode.git
