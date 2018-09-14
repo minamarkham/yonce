@@ -32,11 +32,11 @@ _[Bash-it theme documentation](https://github.com/Bash-it/bash-it#themes)_
 
 ---
 
-## iTerm
+## Command prompt color schemes
 
 ![iTerm Preview](./assets/iterm.jpg)
 
-### Activating
+### iTerm
 
 1. iTerm2 → `Preferences` → `Profiles` → `Colors` Tab
 2. Click `Load Presets...`
@@ -44,7 +44,19 @@ _[Bash-it theme documentation](https://github.com/Bash-it/bash-it#themes)_
 4. Select the [`Yoncé.itermcolors`](Yoncé.itermcolors) file
 5. Select the `Yoncé` from `Load Presets...`
 
-**Note: Yoncé.itermcolors reflects only the theme colors in iTerm. To get the formatting and glyphs shown, you will need to configure your Bash theme via the instructions above.**
+### Terminal
+
+1. Terminal → `Preferences` → `Profiles` tab
+2. Click the `Settings` (gear) icon
+3. Click `Import...`
+4. Select the [`Yoncé.terminal`](Yoncé.terminal) file
+
+OR
+
+1. Double-click on the [`Yoncé.terminal`](Yoncé.terminal) file to open a new Terminal window with the color scheme
+2. Terminal → Shell → `Use settings as default`
+
+**Note: Yoncé color scheme files reflects only the theme colors in the command prompt. To get the formatting and glyphs shown, you will need to configure your Bash theme via the instructions above.**
 
 ---
 
