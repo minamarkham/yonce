@@ -2,7 +2,7 @@
 
 ![logo](./assets/logo.png)
 
-A Queen Bey inspired theme for [Bash-It](https://github.com/Bash-it/bash-it), [Visual Studio Code](http://code.visualstudio.com/), [iTerm](http://www.iterm2.com/), [Slack](http://slack.com/) & [Alfred](https://alfredapp.com)
+A Queen Bey inspired theme for [Bash-It](https://github.com/Bash-it/bash-it), [Visual Studio Code](http://code.visualstudio.com/), [iTerm](http://www.iterm2.com/), macOS Terminal, [Slack](http://slack.com/) & [Alfred](https://alfredapp.com)
 
 </div>
 
