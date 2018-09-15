@@ -44,7 +44,7 @@ _[Bash-it theme documentation](https://github.com/Bash-it/bash-it#themes)_
 4. Select the [`Yoncé.itermcolors`](Yoncé.itermcolors) file
 5. Select the `Yoncé` from `Load Presets...`
 
-### Terminal
+### macOS Terminal
 
 1. Terminal → `Preferences` → `Profiles` tab
 2. Click the `Settings` (gear) icon
