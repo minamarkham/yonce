@@ -2,7 +2,7 @@
 
 ![logo](./assets/logo.png)
 
-A Queen Bey inspired theme for [Bash-It](https://github.com/Bash-it/bash-it), [Visual Studio Code](http://code.visualstudio.com/), [iTerm](http://www.iterm2.com/), macOS Terminal, [Slack](http://slack.com/) & [Alfred](https://alfredapp.com)
+A Queen Bey inspired theme for [Bash-It](https://github.com/Bash-it/bash-it), [Visual Studio Code](http://code.visualstudio.com/), [iTerm](http://www.iterm2.com/), [Hyper](https://hyper.is/), [Slack](http://slack.com/), [Alfred](https://alfredapp.com) and more!
 
 </div>
 
@@ -17,6 +17,7 @@ _In order for this theme to render correctly, you will need a [Nerd Fonts-patche
 2. Go to your `~/.bash_profile` file and set `BASH_IT_THEME="yonce"`.
 3. Finally, reload your terminal.
 
+_[Yoncé theme documentation](prompt.md)_  
 _[Bash-it theme documentation](https://github.com/Bash-it/bash-it#themes)_
 
 ---
@@ -34,15 +35,21 @@ _[Bash-it theme documentation](https://github.com/Bash-it/bash-it#themes)_
 
 ## Command prompt color schemes
 
-![iTerm Preview](./assets/iterm.jpg)
-
 ### iTerm
+
+![iTerm Preview](./assets/iterm.jpg)
 
 1. iTerm2 → `Preferences` → `Profiles` → `Colors` Tab
 2. Click `Load Presets...`
 3. Click `Import...`
 4. Select the [`Yoncé.itermcolors`](Yoncé.itermcolors) file
 5. Select the `Yoncé` from `Load Presets...`
+
+### Hyper
+
+![Hyper Preview](https://raw.githubusercontent.com/WheresAlice/hyper-yonce/master/screenshot.png)
+
+Add `hyper-yonce` to the plugins list in your `~/.hyper.js` config file.
 
 ### macOS Terminal
 
