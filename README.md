@@ -4,6 +4,8 @@
 
 A Queen Bey inspired theme for [Bash-It](https://github.com/Bash-it/bash-it), [Visual Studio Code](http://code.visualstudio.com/), [iTerm](http://www.iterm2.com/), [Hyper](https://hyper.is/), [Slack](http://slack.com/), [Alfred](https://alfredapp.com) and more!
 
+<a href="https://www.patreon.com/minamarkham"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+
 </div>
 
 ## Bash
