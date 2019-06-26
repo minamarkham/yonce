@@ -30,7 +30,7 @@ _[Bash-it theme documentation](https://github.com/Bash-it/bash-it#themes)_
 1. Install using Command Palette
 2. Go to View -> Command Palette or press <kbd>⌘</kbd><kbd>Shift</kbd><kbd>P</kbd> / <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>P</kbd>
 3. Then enter Install Extension
-4. Write `yonce-theme`
+4. Write `Yonce`
 5. Select it or press Enter to install
 
 ---
