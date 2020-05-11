@@ -110,7 +110,7 @@ __YONCE_PROMPT_CHAR_PS1=${THEME_PROMPT_CHAR_PS1:-"└"}
 __YONCE_PROMPT_CHAR_PS2=${THEME_PROMPT_CHAR_PS2:-"└"}
 
 ___YONCE_PREFIX=${___YONCE_PREFIX:-"lyric"}
-___YONCE_TOP_LEFT=${___YONCE_TOP_LEFT:-"user host dir scm"}
+___YONCE_TOP_LEFT=${___YONCE_TOP_LEFT:-"user host dir scm virtualenv"}
 ___YONCE_TOP_RIGHT=${___YONCE_TOP_RIGHT:-"exitcode node python todo clock battery"}
 ___YONCE_BOTTOM=${___YONCE_BOTTOM:-"char"}
 
@@ -307,6 +307,15 @@ ___yonce_prompt_host() {
 	printf "%s|%s" "${separator}" "${icon}" "${info}"
 }
 
+___yonce_prompt_virtualenv(){
+	if test -z ${VIRTUAL_ENV} ; then
+     info=""
+  	else
+	 info="${bold_red}(`basename \"${VIRTUAL_ENV}\"`)"
+	 printf "%s" "${info}"
+	fi
+	
+}
 ___yonce_prompt_dir() {
 	icon="${white} "
 	info="${THEME_COLOR_CWD}${__YONCE_CWD}"
