@@ -67,6 +67,12 @@ OR
 
 **Note: Yoncé color scheme files reflects only the theme colors in the command prompt. To get the formatting and glyphs shown, you will need to configure your Bash theme via the instructions above.**
 
+### Windows Terminal
+
+1. Windows Terminal → `Ctrl+,`
+2. Copy text from `Yoncé.json`
+3. Paste text into `"schemes"` array
+
 ---
 
 ## Slack
