@@ -1,0 +1,23 @@
+{
+    "background": "#1C1C1C",
+    "black": "#1C1C1C",
+    "blue": "#00A7AA",
+    "brightBlack": "#777777",
+    "brightBlue": "#00A7AA",
+    "brightCyan": "#37E5E7",
+    "brightGreen": "#98E342",
+    "brightPurple": "#FFB1F2",
+    "brightRed": "#FC4384",
+    "brightWhite": "#F1F1EF",
+    "brightYellow": "#E6DB74",
+    "cursorColor": "#D4D4D4",
+    "cyan": "#37E5E7",
+    "foreground": "#D4D4D4",
+    "green": "#98E342",
+    "name": "Yonce",
+    "purple": "#FFB2F2",
+    "red": "#FC4384",
+    "selectionBackground": "#FC4384",
+    "white": "#D4D4D4",
+    "yellow": "#E6DB74"
+}

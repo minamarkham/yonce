@@ -69,6 +69,20 @@ OR
 
 ---
 
+### Windows Terminal
+
+![Windows Terminal Preview](./assets/winterm.jpg)
+
+From Windows Terminal, press Ctrl+,, then click Open JSON file at the lower right corner.
+
+There is a JSON array of schemes in the settings.json. Paste the contents of "yonce.wintermcolors" at the end of that array. (There will be an import feature very soon)
+
+* If you're using PowerShell, Yoncé looks amazing with [OhMyPosh.dev](http://www.OhMyPosh.dev) as well as [PSColors](https://www.hanselman.com/blog/you-should-be-customizing-your-powershell-prompt-with-psreadline) and [Terminal-Icons](https://www.hanselman.com/blog/take-your-windows-terminal-and-powershell-to-the-next-level-with-terminal-icons)
+
+---
+
+
+
 ## Slack
 
 ![Slack Preview](./assets/slack.jpg)
