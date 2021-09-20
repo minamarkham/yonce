@@ -4,3 +4,6 @@
 [submodule "hyper"]
 	path = hyper
 	url = git@github.com:WheresAlice/hyper-yonce.git
+[submodule "visual-studio"]
+	path = visual-studio
+	url = git@github.com:minamarkham/yonce-visual-studio.git
